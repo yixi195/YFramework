@@ -49,4 +49,10 @@ public class BaseFrameworkInit implements IBaseRequirement {
     }
 ```
 
+## 使用到的框架(声明)
+·[LRecyclerView](https://github.com/jdsjlzx/LRecyclerView)
+·Okhttp3
+·Rxjava
+·Retrofit2
+
 
