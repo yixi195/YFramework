@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_x_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_bow_roate.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_hide.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_hide.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\success_mask_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\floating_action_button_show.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\167c54f8e1faf586d9c88b759e24c8ad9b648ab3\\output\\res\\anim\\floating_action_button_show.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\modal_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\TuringLive\\Framework\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c0c35526647c76c3ad67d120a332ad5277abfa58\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\error_frame_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d284fb8a901cdb65476e53feaf5b9e697dca6c76\\output\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "D:\\TuringLive\\Framework\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\4789d490273a6a2e90a2c455b18d6f98713298fb\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]
