@@ -3,6 +3,7 @@
 
 ## 使用指南
 通过import module导入使用
+
 1、初始化，在app中创建BaseFrameworkInit类
 ```
 public class BaseFrameworkInit implements IBaseRequirement {
