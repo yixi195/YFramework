@@ -1,5 +1,6 @@
 # YFramework
 
+PS: 具体使用可以参照 [扬直播项目](https://github.com/yixi195/YangZhiBo)
 
 ## 使用指南
 通过import module导入使用
